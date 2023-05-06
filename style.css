@@ -250,7 +250,7 @@ body {
 
 @media only screen and (max-width: 500px) {
   .logo {
-    font-size: 1.2em;
+    font-size: 1.35em;
   }
 
   .banner h1 {
@@ -258,7 +258,7 @@ body {
   }
 
   .nav li {
-    font-size: 1.2em;
+    font-size: 1em;
   }
 
   .mid-1,
