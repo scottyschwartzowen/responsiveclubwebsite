@@ -186,7 +186,7 @@ body {
   }
 
   .banner h1 {
-    left: 160px;
+    left: 120px;
   }
 
   .middle {
@@ -209,7 +209,7 @@ body {
 
 @media only screen and (max-width: 675px) {
   .nav li {
-    font-size: 1em;
+    font-size: 1.1em;
     padding: 5px;
   }
 
@@ -255,6 +255,7 @@ body {
 
   .banner h1 {
     font-size: 2.6em;
+    left: 20px;
   }
 
   .nav li {
